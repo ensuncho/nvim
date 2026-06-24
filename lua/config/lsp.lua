@@ -70,7 +70,8 @@ vim.lsp.enable({
   --- ... etc
     "phpantom_lsp",
     "ts_ls",
-    "vue_ls"
+    "vue_ls",
+    "laravel_ls"
 })
 
 -- Load Lsp on-demand, e.g: eslint is disable by default
